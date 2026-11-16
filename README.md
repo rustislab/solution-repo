@@ -1,2 +1,69 @@
-# solution-repo
-Curriculum Vitae 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Angel Escol - Junior Frontend Developer - Curriculum Vitae</title>
+    <meta name="description" content="Single Page CV - Angel Escol - Junior Frontend Developer">
+    <meta name="keywords" content="Junior Frontend Developer, HTML, CSS, JavaScript, CV, Web Development, Resume">
+    <meta name="author" content="Angel Escol">
+
+    <meta property="og:title" content="Angel Escol - Junior Frontend Developer" />
+    <meta property="og:description" content="Get to Know - Angel Escol - Junior Frontend Developer" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://yourwebsite.com" />
+    <meta property="og:image" content="https://yourwebsite.com/og-image.jpg" />
+    <meta property="og:site_name" content="Angel Escol - Junior Frontend Developer" />
+
+    <link rel="icon" href="https://yourwebsite.com/favicon.ico" type="image/x-icon" />
+</head>
+<body>
+
+    <header>
+        <h1>Angel Escol - Junior Frontend Developer</h1>
+        <section id="about">
+            <h2>About Me</h2>
+            <p><strong>Junior Frontend Developer with a passion for creating interactive and user-friendly web applications.</strong></p>
+            <address>
+                <p>Location: Five Cats,Austria</p>
+                <p>Email: <a href="mailto:angel@example.com">angel@example.com</a></p>
+                <p>Phone: +1234567890</p>
+                <p>Website: <a href="https://yourwebsite.com" target="_blank">yourwebsite.com</a></p>
+            </address>
+        </section>
+    </header>
+
+    <main>
+        <section id="skills">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Technical Writing</li>
+                <li>Responsive Web Design</li>
+            </ul>
+        </section>
+
+        <section id="education">
+            <h2>Education</h2>
+            <p>Bachelor's Degree in Secondary Education from XYZ University, majoring in English</p>
+            <p>Graduated in 2020</p>
+            <p> Self-learning Frontend Development through online courses and personal projects</p>
+        </section>
+        <section id="career">
+            <h2>Career</h2>
+            <p>Currently seeking opportunities as a Junior Frontend Developer to apply my skills in HTML, CSS, JavaScript, and Technical Writing.</p>
+        </section>
+    </main>
+    <footer>
+        <section id="social-links">
+            <h2>Across the Internet</h2>
+            <p>Connect with me on LinkedIn and GitHub:</p>
+            <a href="linkedin.com/in/angel-escol" target="_blank">LinkedIn</a>
+            <a href="github.com/rustislab" target="_blank">GitHub</a>
+        </section>
+        <p>&copy; 2024 Angel Escol. All rights reserved.</p>
+    </footer>
+</body>
+</html>
